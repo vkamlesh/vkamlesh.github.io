@@ -24,16 +24,9 @@ sites.
 +   Extensive experience in infrastructure management tools, and data
     center automation
 
-+   Experience with virtualization and cloud infrastructure, including:
-    VMware, Xen, KVM.
++  Expert-level knowledge of Amazon EC2, S3, VPC, RDS, Elastic Load Balancing, Autoscaling, IAM, SQS, security groups, Lambda, Cloud Watch and other AWS services.
 
-+   Extensive experience in network, OS, and application security
-    testing, tool construction, and design of custom protection
-    architectures
-
-+   Working knowledge of advanced features and system internals of major
-    operating systems: Linux, BSD, Solaris, Windows, MacOS
-
++ 7 years of experience in core AWS services (S3, EC2, ELB, EBS, Route53, VPC, Auto scaling etc.) and deployment services (Elastic Beanstalk, Lambda, OpsWorks and Cloud Formation) and security practices (IAM, Cloudwatch and Cloudtrail).
 
 
 
@@ -48,7 +41,7 @@ sites.
 
 +   Scripting: Python,Bash
 
-+   Virtualization: KVM, Vagrant, VirtualBox
++   Infrastructure provisioning: Terraform
 
 +   Cloud Platform: AWS, Akamai Cloud
 
@@ -69,6 +62,8 @@ sites.
 
 -   ITIL Foundation Certification in IT Service Management(License:
     GR750266214KV)
+    
+-   AWS Certified SysOps Administrator (Validation Number KD458DB1L2E1QH5Z)    
 
 
 ### PROFESSIONAL EXPERIENCE:
@@ -103,6 +98,8 @@ Responsibilities:
     improvements
 
 +   Use Ansible for Deployments and Configuration management.
+
++   Work on  cloud solutions for Akamai products leveraging services including, but not limited to, VPC, EC2, S3, RDS, Route53, CloudFormation, Lambda, CloudWatch and SNS.
 
 
 
