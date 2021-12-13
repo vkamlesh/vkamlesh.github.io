@@ -4,42 +4,25 @@ layout: default
 title: Resume - Kamlesh Verma
 
 ---
-**KAMLESH VERMA**
-
-\#105 PRV Residencyth 5thMain Email:<kamlesh.a.verma@gmail.com>
-
-B.T.S Layout Bengaluru-560076 Phone: +91-974-232-0241
-
-[]{#webProfileURL
-.anchor}http:/[in.linkedin.com/in/vkamlesh/](http://in.linkedin.com/in/vkamlesh/)
 
 PROFESSIONAL PROFILE:
 ---------------------
 
-Creative professional focused on innovation, development,
-implementation, and advancement of system/networks and server
-infrastructure. Performance driven strategist ensures system/data
-integrity, reliability and client-centric solutions across multiple
-sites.
+Innovative Senior DevOps Engineer with a strong Linux background and 10+ years of experience designing, implementing and managing cutting-edge deployment automation of cloud resources.
 
 Experience Summary:
 -------------------
 
--   Design, deployment, and maintenance of data centers and application
-    server clusters comprised of several thousand nodes
+-   Provided cloud solutions which includes Configuration Management, Continuous Integration and Continuous Deployment (CI/CD), Release Management and to implement Infrastructure as a Service (IAAS) to quickly deliver code to customers.
 
--   Extensive experience in infrastructure management tools, and data
-    center automation
+-   Set up processes and standards for Secure SDLC.
 
--   Experience with virtualization and cloud infrastructure, including:
-    VMware, Xen, KVM, Rackspace, etc.
+-   Implemented ELK Stack to an existing application framework for real-time log aggregation, analysis and querying (Elasticsearch, Logstash, Kibana).
 
--   Extensive experience in network, OS, and application security
-    testing, tool construction, and design of custom protection
-    architectures
+-   Experienced in real-time application performance monitoring using Dynatrace.
 
--   Working knowledge of advanced features and system internals of major
-    operating systems: Linux, BSD, Solaris, Windows, MacOS
+-   Automate build and deployment with AWS CLI and Boto3.
+
 
 TeCHNICAL SKILLS:
 -----------------
@@ -54,9 +37,20 @@ TeCHNICAL SKILLS:
 
 -   Virtualization: KVM, Vagrant, VirtualBox
 
--   Cloud Platfrom: AWS, Akamai Cloud, Docker
+-   Cloud Platfrom: AWS, Akamai Cloud
 
 -   Continuous Integration: Jenkins, BART
+
+-   Infrastructure provisioning: Terraform
+
+-   Application Monitor: Dynatrace
+
+-   In-Memory Storage: Radis
+
+-   Log Shipping and Analysis: ELK(Elasticsearch, Logstash, Kibana),Cloudwatch
+
+-   Microservices Orchestration: Kubernetes
+
 
 EDUCATION:
 
@@ -65,12 +59,52 @@ BE, Computer Science & Eng. From Rgpv University, Bhopal, India (June
 
 CERTIFICATION:
 
+Certified Kubernetes Administrator (CKA) (Certification ID:  LF-qd3pyb5xpx)
+
+Certified Kubernetes Security Specialist (CKS) (Certification ID: LF28ji8ol5od)
+
+AWS Certified SysOps Administrator (Validation Number KD458DB1L2E1QH5Z)
+
+Certified Calico Operator: Level 1
+
 Red Hat Certified Engineer (License: 140-024-027)
 
 ITIL Foundation Certification in IT Service Management(License:
 GR750266214KV)
 
 PROFESSIONAL EXPERIENCE:
+
+Senior Reliability Engineer August-2020 
+
+Akamai Technologies, Bangalore
+
+Responsibilites:
+
+-   Ensure reliable operation of the various networks that deliver Akamai services.
+
+-   Review and refine processes, procedures and tools in an ongoing basis. Participate in product improvements that increase reliability.
+
+
+
+Senior DevOps Engineer March-2019 to July-2020
+
+PayU Finance, Bangalore
+
+Responsibilities:
+
+-   Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools. Such as Gitlab, Jenkins.
+
+-   Develop and automate standard operating procedures around common failure scenarios.
+
+-   Automated build and deployment process with Jenkins and Maven, eliminating the 80% of manual work
+
+-   Development and support of AWS-based infrastructure certified for RBI NBFC Compliance.
+
+-   Configured ELK Stack with current production setup.
+
+-   Experience in production level Kubernetes cluster (AWS managed EKS).
+
+
 
 System Operation Engineer II September-2015 to Present
 
@@ -82,8 +116,7 @@ Responsibilites:
     production network
 
 -   Conduct and manage software rollouts that span massive,
-    multi-service, complex networks using Build and Release
-    system(Akamai owned tool).
+    multi-service, complex networks using Build and Release system(Akamai owned tool).
 
 -   Drive platform improvements and increase operational efficiencies by
     analyzing behaviors and trends, implementing code, increasing
@@ -197,10 +230,3 @@ Mphasis an HP Company: On behalf of iOPEX Technologies, Chennai.
 -   Escalating and co-coordinating application related outages to
     client’s Technical Support the team
 
-Personal Details :
-
-Date Of Birth: 2^nd^ May 1987
-
-Permant Address: 39, Panchsheel Nagar Dewas-455001
-
-Language Known:Hindi,English
